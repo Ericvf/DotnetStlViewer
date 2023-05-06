@@ -7,3 +7,4 @@ The app is capable of reading and viewing STL files.
 It can zoom, pan and rotate the model. 
 
 
+![https://github.com/Ericvf/DotnetStlViewer/blob/12c0220bc70072df205a6dbd13f3025e04e1043a/screenshot.png](https://github.com/Ericvf/DotnetStlViewer/blob/12c0220bc70072df205a6dbd13f3025e04e1043a/screenshot.png)
