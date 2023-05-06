@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DotnetStlViewer": {
+      "commandName": "Project",
+      "commandLineArgs": "DotnetStlViewer.stl"
+    }
+  }
+}
